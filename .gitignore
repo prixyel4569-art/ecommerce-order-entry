@@ -1,0 +1,14 @@
+# Local business records
+单号/
+
+# Local secrets and credentials
+.env
+.env.*
+*.key
+*.pem
+*.secret
+secrets/
+
+# Logs and local editor files
+*.log
+.vscode/
